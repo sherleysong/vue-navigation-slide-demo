@@ -58,13 +58,6 @@ a {
 
 .hello {
   position: absolute;
-}
-.fade-enter-active,
-.fade-leave-active,
-.slide-left-enter-active,
-.slide-left-leave-active,
-.slide-right-enter-active,
-.slide-right-leave-active {
   transition: all .3s;
 }
 
